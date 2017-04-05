@@ -1,0 +1,24 @@
+
+HEX FILE DISPLAY of lab1test.txt        Written by Charlie Ang
+                HEX     FILE    DISPLAY
+    Addr:  0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F  ------ASCII-----
+00000000: 54 68 69 73 20 69 73 20 61 20 73 61 6D 70 6C 65  This is a sample
+00000010: 20 66 69 6C 65 20 66 6F 72 20 6C 61 62 31 2E 0D   file for lab1.
+00000020: 0A 49 74 20 73 68 6F 77 73 20 75 70 70 65 72 63   It shows upperc
+00000030: 61 73 65 20 41 42 43 2C 20 6C 6F 77 65 72 63 61  ase ABC, lowerca
+00000040: 73 65 20 61 62 63 2C 20 0D 0A 6E 75 6D 62 65 72  se abc,   number
+00000050: 73 20 30 31 32 33 34 35 36 37 38 39 2C 20 61 6E  s 0123456789, an
+00000060: 64 20 73 70 65 63 69 61 6C 20 0D 0A 63 68 61 72  d special   char
+00000070: 61 63 74 65 72 73 20 20 2F 3F 40 23 24 25 5E 26  acters  /?@#$%^&
+00000080: 2A 28 29 2E 0D 0A 49 74 20 69 73 20 69 6D 70 6F  *().  It is impo
+00000090: 72 74 61 6E 74 20 74 68 61 74 20 61 20 68 65 78  rtant that a hex
+000000A0: 20 64 75 6D 70 20 70 72 6F 67 72 61 6D 20 72 65   dump program re
+000000B0: 70 72 65 73 65 6E 74 20 6F 66 66 73 65 74 20 61  present offset a
+000000C0: 64 64 72 65 73 73 65 73 20 64 69 73 70 6C 61 79  ddresses display
+000000D0: 65 64 0D 0A 69 6E 20 68 65 78 69 64 65 63 69 6D  ed  in hexidecim
+000000E0: 61 6C 20 70 72 6F 70 65 72 6C 79 20 66 6F 72 20  al properly for
+000000F0: 6C 61 72 67 65 72 20 66 69 6C 65 73 20 74 68 61  larger files tha
+00000100: 74 20 72 65 71 75 69 72 65 20 6D 6F 72 65 20 74  t require more t
+00000110: 68 61 6E 20 31 36 20 6C 69 6E 65 73 20 6F 66 20  han 16 lines of
+00000120: 6F 75 74 70 75 74 2E 0D 0A 1A                    output.
+Final character count = 298  (0x0000012A)

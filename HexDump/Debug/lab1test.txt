@@ -1,0 +1,7 @@
+This is a sample file for lab1.
+It shows uppercase ABC, lowercase abc, 
+numbers 0123456789, and special 
+characters  /?@#$%^&*().
+It is important that a hex dump program represent offset addresses displayed
+in hexidecimal properly for larger files that require more than 16 lines of output.
+

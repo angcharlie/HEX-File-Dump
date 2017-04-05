@@ -1,0 +1,14 @@
+﻿Build started 5/24/16 9:14:51 PM.
+     1>Project "\\Mac\Home\Documents\CSC 3350\Lab 1\HexDump\HexDump\HexDump.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt hexdump.c
+         hexdump.c
+     1>\\mac\home\documents\csc 3350\lab 1\hexdump\hexdump\hexdump.c(27): warning C4047: 'initializing' : 'char' differs in levels of indirection from 'char [1]'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\Mac\Home\Documents\CSC 3350\Lab 1\HexDump\Debug\HexDump.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"\\Mac\Home\Documents\CSC 3350\Lab 1\HexDump\Debug\HexDump.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\Mac\Home\Documents\CSC 3350\Lab 1\HexDump\Debug\HexDump.lib" /MACHINE:X86 Debug\hexdump.obj
+         HexDump.vcxproj -> \\Mac\Home\Documents\CSC 3350\Lab 1\HexDump\Debug\HexDump.exe
+     1>Done Building Project "\\Mac\Home\Documents\CSC 3350\Lab 1\HexDump\HexDump\HexDump.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.53
